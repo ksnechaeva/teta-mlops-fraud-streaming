@@ -1,0 +1,3 @@
+-r scorer_service/requirements.txt
+pytest==8.4.1
+PyYAML==6.0.2
